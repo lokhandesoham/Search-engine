@@ -4,7 +4,7 @@ A powerful, feature-rich search engine implementation that combines efficient in
 
 ## 🎥 Demo
 
-![Search Engine Demo](demo.gif)
+![Search Engine Demo](SeachEngine121.gif)
 
 ## ✨ Features
 
